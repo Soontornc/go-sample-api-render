@@ -1,7 +1,8 @@
 basePath: /
 
-# host: localhost:8080 # <--- แก้ไขเป็น localhost:7070
-host: localhost:7070
+# host: localhost:8080 # ถ้าใช้ localhost
+# host: localhost:7070 # ถ้าใช้ Docker localhost
+host: go-sample-api-render-miyb.onrender.com # ถ้าใช้ Render
 
 info:
   contact:

@@ -15,7 +15,7 @@
         },
         "version": "1.0"
     },
-    "host": "localhost:7070",
+    "host": "go-sample-api-render-miyb.onrender.com",
     "basePath": "/",
     "paths": {
         "/api/v1/": {
