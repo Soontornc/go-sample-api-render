@@ -1,5 +1,8 @@
 basePath: /
+
+# host: localhost:8080 # <--- แก้ไขเป็น localhost:7070
 host: localhost:7070
+
 info:
   contact:
     email: support@swagger.io
